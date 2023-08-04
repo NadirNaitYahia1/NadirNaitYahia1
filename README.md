@@ -2,7 +2,7 @@
  
 <h1 align="center">Hi 👋, I'm NAIT YAHIA Nadir</h1>
 <h3 align="center">🖥️ I’m currently a CS student @ESTIN Bejaia</h3>
-<div style="padding-top:112.349%;position:relative;"><iframe src="https://gifer.com/embed/HaD1" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadirnaityahia1&label=Profile%20views&color=0e75b6&style=flat" alt="nadirnaityahia1" /> </p>
 
 <h3 align="left">Connect with me:</h3>
