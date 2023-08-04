@@ -2,13 +2,14 @@
  
 <h1 align="center">Hi 👋, I'm NAIT YAHIA Nadir</h1>
 <h3 align="center">🖥️ I’m currently a CS student @ESTIN Bejaia</h3>
-<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
 
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/HaD1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadirnaityahia1&label=Profile%20views&color=0e75b6&style=flat" alt="nadirnaityahia1" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/user:22329223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:22329223" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nadir-nait-yahia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
+ <a href="https://stackoverflow.com/users/user:22329223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:22329223" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
