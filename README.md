@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm NAIT YAHIA Nadir</h1>
 <h3 align="center">🖥️ I’m currently a CS student @ESTIN Bejaia</h3>
 
-<img align="right" alt="coding" width="200" src="  https://tenor.com/fr/view/coding-typing-big-brained-busy-sweating-gif-17808553/bmSYT.gif">
+ 
+<div class="tenor-gif-embed" data-postid="17808955" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/code-encoding-typing-working-busy-gif-17808955">Code Encoding Sticker</a>from <a href="https://tenor.com/search/code-stickers">Code Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <p align="left"> </p>
   
 
