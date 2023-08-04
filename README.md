@@ -2,7 +2,7 @@
  
 <h1 align="center">Hi 👋, I'm NAIT YAHIA Nadir</h1>
 <h3 align="center">🖥️ I’m currently a CS student @ESTIN Bejaia</h3>
-<img align="right" alt="coding" width="400"  src="https://giphy.com/embed/RbDKaczqWovIugyJmW"> 
+<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadirnaityahia1&label=Profile%20views&color=0e75b6&style=flat" alt="nadirnaityahia1" /> </p>
 
